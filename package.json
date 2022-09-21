@@ -12,7 +12,7 @@
     "vue": "^2.6.11",
     "vue-audio-visual": "^2.0.0",
     "vue-web-cam": "^1.9.0",
-    "vuetify": "^2.2.11"
+    "vuetify": "^2.6.10"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.3.0",
